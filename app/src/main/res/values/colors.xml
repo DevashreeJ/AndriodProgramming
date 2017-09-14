@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#00BF9A</color>
+    <color name="colorPrimaryDark">#008975</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#E0F2F1</color>
+
+    <color name="colorPrimarytask2">#7E57C2</color>
+    <color name="colorPrimaryDarktask2">#512DA8</color>
+    <color name="colorAccenttask2">#FF4081</color>
+    <color name="colorBackgroundtask2">#EDE7F6</color>
+
+    <color name="colorPrimarytask3">#1565C0</color>
+    <color name="colorPrimaryDarktask3">#0D47A1</color>
+    <color name="colorAccenttask3">#FF4081</color>
+    <color name="colorBackgroundtask3">#E3F2FD</color>
+
+    <color name="colorPrimarytask5">#C2185B</color>
+    <color name="colorPrimaryDarktask5">#880E4F</color>
+    <color name="colorAccenttask5">#FF4081</color>
+    <color name="colorBackgroundtask5">#FCE4E7</color>
+
+
+</resources>
